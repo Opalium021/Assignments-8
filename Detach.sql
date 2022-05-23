@@ -1,1 +1,1 @@
-EXEC sp_detach_db 'Assets' , true' ;
+EXEC sp_detach_db 'assets' , true' ;
