@@ -1,4 +1,4 @@
 CREATE DATABASE Assets
-            ON (FILENAME = 'D :\MySQL Projects\Assets.mdf '),
-            (FILENAME = 'D :\MySQL Projects\Assets_Log.ldf ' )
-            FOR ATTACH ;
+       ON (FILENAME = 'F :\MyProjects\assets.mdf '),
+       (FILENAME = 'F :\MyProjects\Assets_log.ldf ' )
+       FOR ATTACH ;
