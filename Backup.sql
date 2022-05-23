@@ -1,2 +1,2 @@
-BACKUP DATABASE Assets
-TO DISK = ' D :\MyProject Backups\Assets.bak ' ;
+BACKUP DATABASE assets
+TO DISK = ' F :\Backups\assets.bak ' ;
